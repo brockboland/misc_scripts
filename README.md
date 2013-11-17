@@ -1,4 +1,1 @@
-misc_script
-===========
-
-Various hacky scripts that I wrote years ago
+These are some simple scripts that I've written over the years to solve small problems. I wouldn't recommend using them now—there are definitely better solutions—but I hate to just delete code.
